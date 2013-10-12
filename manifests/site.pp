@@ -1,7 +1,7 @@
-file { '/tmp/node2':
+file { '/tmp/node3':
 
 	ensure => file,
-	content => 'And thats how we do it',
+	content => 'And thats how we do it automated',
 }
 
 file {'/tmp/node1':
