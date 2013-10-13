@@ -1,3 +1,7 @@
+File {
+
+	backup => ".bak",
+}
 file { '/tmp/node3':
 
 	ensure => file,
