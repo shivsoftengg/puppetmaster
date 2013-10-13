@@ -1,0 +1,5 @@
+# Inventory of signed certificates
+# SERIAL NOT_BEFORE NOT_AFTER SUBJECT
+0x0001 2013-10-12T17:47:53GMT 2018-10-12T17:47:53GMT /CN=Puppet CA: testserver.shiv.com
+0x0002 2013-10-12T17:47:59GMT 2018-10-12T17:47:59GMT /CN=testserver.shiv.com
+0x0003 2013-10-12T18:13:21GMT 2018-10-12T18:13:21GMT /CN=testnode.shiv.com
